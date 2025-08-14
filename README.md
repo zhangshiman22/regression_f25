@@ -7,7 +7,7 @@
 
 **Class Time**: Mon/Thurs 10a-12p or 1p-3p in SFD 154-156
 
-**Office Hours**:  Thurs 3:30p-4:30p and Wed 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) 
+**Office Hours**:  Wed 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) and Thurs 3:30p-4:30p in person
 (subject to change during quiz/exam/pitch weeks - watch the course slack!)
 
 **Book**: Applied Linear Statistical Models by Kutner, Nachtsheim, Neter, and Li
