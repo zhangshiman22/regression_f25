@@ -31,14 +31,15 @@ variable selection techniques. Programming language is Python.
 |Week 4| 9/8 & 9/11 |  Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| 6.1-6, 7.1-6  | [HW3 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW3.pdf) + Exam 1|
 |Week 5| 9/15 & 9/18 |MLR:  Feature engineering &  Modeling Problems| 3.7, 7.1-6, 8.3 | [HW4 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW4.pdf) |
 |Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
-|Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf) + Exam 2  |
-|Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 | [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project) |
+|Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf)  |
+|Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project)(10/9) |
 ## Course Tenets:
 
 When in doubt, rely on the following:
-- Put the work in & ask for help when stuck.
-- Ask questions before spiraling.
-- When confused, work with a partner & zoom into details.
+- Put the work in and be proactive in asking for help. 
+- When others are stuck, offer your help in return. 
+- **Do not underestimate the power of office hours!!**
+- When you are confused, work with a partner & zoom into details.
 - When you understand, teach others & zoom out to debrief.
 - Use common sense whenever possible.
 
