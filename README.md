@@ -23,6 +23,7 @@ variable selection techniques. Programming language is Python.
 
 ## Schedule
 *subject to change
+**Note this is a Tuesday! 
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 8/21 | Intro, Simple Linear Regression: parameter estimation, mean, variance | Sec. 1.5 & 1.6 |   |
@@ -33,7 +34,8 @@ variable selection techniques. Programming language is Python.
 |Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
 |Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf)  |
 |Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project)(10/9) |
-**Note this is a Tuesday! 
+
+
 
 ## Course Tenets:
 
