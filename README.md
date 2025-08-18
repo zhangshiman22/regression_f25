@@ -33,6 +33,8 @@ variable selection techniques. Programming language is Python.
 |Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
 |Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf)  |
 |Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project)(10/9) |
+**Note this is a Tuesday! 
+
 ## Course Tenets:
 
 When in doubt, rely on the following:
@@ -92,7 +94,7 @@ Professional behavior is expected both during classtime and outside of class whe
 - _No late homework past the grace period will be accepted._
 
 **Quizzes: 60%**
-- There will be 2 written quizzes in Module I, tentatively scheduled for: Thurs, Sept 12 and Thurs, Oct 3. Details will be discussed in classes leading up to exam dates.
+- There will be 2 written quizzes in Module I, tentatively scheduled for: Thurs, Sept 11 and Tues, Oct 7. Details will be discussed in classes leading up to exam dates.
 
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
 
