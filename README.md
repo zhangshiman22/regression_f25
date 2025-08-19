@@ -33,7 +33,7 @@ variable selection techniques. Programming language is Python.
 |Week 5| 9/15 & 9/18 |MLR:  Feature engineering &  Modeling Problems| 3.7, 7.1-6, 8.3 | [HW4 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW4.pdf) |
 |Week 6| 9/22 & 9/25 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW5.pdf)  |
 |Week 7| 9/30** & 10/2 | Regression Pitfalls & Model Selection | 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f25/blob/main/HW/HW6.pdf)  |
-|Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project)(10/9) |
+|Week 8 | 10/6 & 10/9 (Final Project Workday) |  Logistic Regression | Ch. 14 |  Exam 2 (10/7) + [Final Project Due](https://github.com/codycarroll/regression_f25/tree/main/Final%20Project) (10/9) |
 
 
 
